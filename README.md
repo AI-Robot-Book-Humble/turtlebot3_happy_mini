@@ -1,7 +1,7 @@
 # TurtleBot3 Happy Mini 
 ## 概　要
-次のturtlebot3リポジトリにhappy miniのモデル(URDF, Mesh)を追加した。ロボット台車のパラメータはwaffle_piと同じである。  
-- [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3.git)
+次のturtlebot3リポジトリをコピーしてhappy miniのモデル(URDF, Mesh)を追加した。ロボット台車のパラメータはwaffle_piと同じである。  
+- [ROBOTIS-GIT turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3.git)
 
 ## 環　境  
 - ROS2 Humble
@@ -61,9 +61,6 @@ turtlebot3_house.launch.pyで初期向きを設定できるように改良した
 ```
 $ ros2 launch turtlebot3_gazebo turtlebot3_house2.launch.py　x_pose:=初期位置のx座標 y_pose:=初期位置のy座標 yaw_pose:=初期向きのYaw角
 ```
-
-## 著者
-出村 公成
 
 ## 履歴
 - 2024-10-13: 初期版
