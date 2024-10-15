@@ -54,8 +54,10 @@ $ export TURTLEBOT3_MODEL=waffle_pi
 ```
 $ ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py　x_pose:=初期位置のx座標 y_pose:=初期位置のy座標
 ```
+
 6. ロボット初期姿勢の変更方法
 turtlebot3_house.launch.pyで初期向きを設定できるように改良したturtlebot3_house2.launch.pyを使ってください．
+
 ```
 $ ros2 launch turtlebot3_gazebo turtlebot3_house2.launch.py　x_pose:=初期位置のx座標 y_pose:=初期位置のy座標 yaw_pose:=初期向きのYaw角
 ```
