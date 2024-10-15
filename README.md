@@ -1,7 +1,7 @@
 # TurtleBot3 Happy Mini 
 ## 概　要
-次のturtlebot3にhappy miniのモデル(URDF, Mesh)を追加した。現時点では、ロボット台車のパラメータはwaffle_piと同じdである。  
-- 
+次のturtlebot3リポジトリにhappy miniのモデル(URDF, Mesh)を追加した。ロボット台車のパラメータはwaffle_piと同じである。  
+- [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3.git)
 
 ## 環　境  
 - ROS2 Humble
