@@ -3,8 +3,8 @@
 次のturtlebot3リポジトリをコピーしてhappy miniのモデル(URDF, Mesh)を追加した。ロボット台車のパラメータはwaffle_piと同じである。  
 - [ROBOTIS-GIT turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3.git)
 
-## 変更箇所
-- happy miniのモデル(URDF, Mesh)の追加
+## 追加・変更箇所
+- turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_happy_mini
 - turtlebot3_simulations/turtlebot3_gazebo/launch/spawn2_turtlebot3.launch.py
 - turtlebot3_simulations/turtlebot3_gazebo/launch/turtlebot3_house2.launch.py
 
