@@ -2,7 +2,7 @@ This product includes software developed at
 [TurtleBot3] (https://github.com/ROBOTIS-GIT/turtlebot3.git).
 
 Copyright [2020] [turtlebot3.robits.com]
-Copyright [2024] [Kosei Demura]
+Copyright [2024] [Kosei Demura]　(ロボットモデル Happy Miniの追加部分 MeshとURDF）
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -23,5 +23,6 @@ limitations under the License.
 The following modifications were made to the original project by [Kosei Demura]:
 
 - [ロボットモデル Happy Miniの追加 (MeshとURDF)]
+- 
 
 For details on the modifications, please refer to the CHANGELOG or commit history in the repository.
