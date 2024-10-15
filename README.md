@@ -5,6 +5,7 @@
 
 ## 追加・変更箇所
 - turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_happy_mini
+- turtlebot3_simulations/turtlebot3_gazebo/urdf/turtlebot3_happy_mini.urdf
 - turtlebot3_simulations/turtlebot3_gazebo/launch/spawn2_turtlebot3.launch.py
 - turtlebot3_simulations/turtlebot3_gazebo/launch/turtlebot3_house2.launch.py
 
