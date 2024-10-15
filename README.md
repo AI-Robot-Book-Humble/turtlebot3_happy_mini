@@ -16,7 +16,7 @@ $ sudo apt install ros-humble-gazebo-ros-pkgs
 - Happy Mini関連パッケージのインストール
 ```
 $ cd ~/airobot_ws/src
-$ git clone https://github.com/AI-Robot-Book/turtlebot3_happy_mini.git
+$ git clone https://github.com/AI-Robot-Book-Humble/turtlebot3_happy_mini
 $ cd ~/colcon_ws
 $ colcon build 
 ```
