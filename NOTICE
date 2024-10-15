@@ -24,6 +24,6 @@ The following modifications were made to the original project by [Kosei Demura]:
 
 - [ロボットモデル Happy Miniの追加 (MeshとURDF)]
 - turtlebot3_simulations/turtlebot3_gazebo/launch/spawn2_turtlebot3.launch.py
-- turtlebot3_simulations/turtlebot3_gazebo/launch/spawn2_turtlebot3.launch.py
+- turtlebot3_simulations/turtlebot3_gazebo/launch/turtlebot3_house2.launch.py
 
 For details on the modifications, please refer to the CHANGELOG or commit history in the repository.
